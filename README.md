@@ -6,7 +6,7 @@ The official site is
 https://github.com/PHPMailer/PHPMailer
 
 if fact, you don't need to clone the full source code from the repo, 
-we just need one example named qmail.php 
+we just need one example named gmail.php 
 
 	cd ~
 	mkdir gmail_test
