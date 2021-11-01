@@ -1,5 +1,7 @@
 # phpmailer
 
+It's helpful when you want to build a web site that send emails through your own gmail account.
+
 The official site is
 https://github.com/PHPMailer/PHPMailer
 
