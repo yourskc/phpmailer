@@ -3,7 +3,7 @@
 The official site is
 https://github.com/PHPMailer/PHPMailer
 
-if fact, you don't need to clone the whole source from the repo, 
+if fact, you don't need to clone the full source code from the repo, 
 we just need one example named qmail.php 
 
 	cd ~
